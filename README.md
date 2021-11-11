@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilusder
 - 👀 I’m interested in electronics and Embedded Systems, RT Operation Systems, communication protocols, SDR...
-- 🌱 I’m currently learning FreeRTOS, C
+- 🌱 I’m currently learning FreeRTOS, C, python, yocto project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: @ilusder
 <!---
